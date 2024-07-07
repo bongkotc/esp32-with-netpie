@@ -17,6 +17,9 @@ Debug/
 # ไฟล์และโฟลเดอร์ของ VS Code
 libraries/
 
+# ไฟล์รหัส
+constant.h
+
 # ไฟล์ไบนารี
 *.bin
 *.hex
